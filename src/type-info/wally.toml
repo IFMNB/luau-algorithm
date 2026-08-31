@@ -1,0 +1,10 @@
+[package]
+name = "ifmnb/algorithm-typeinfo"
+description = "Algorithm of separating axis theoreme;"
+version = "2609.1.0"
+license = "GNU General Public License v3.0"
+authors = ["Aftersky"]
+repository = "https://github.com/IFMNB/luau-algorithm"
+registry = "https://github.com/UpliftGames/wally-index"
+realm = "shared"
+exclude = ["node_modules", "package.json", "**/*.ts"]

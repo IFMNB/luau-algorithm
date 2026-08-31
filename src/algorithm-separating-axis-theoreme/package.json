@@ -1,0 +1,15 @@
+{
+	"name": "ifmnb/algorithm-sat",
+	"version": "2609.1.0",
+	"main": "SAT.luau",
+	"repository": "https://github.com/IFMNB/luau-algorithm",
+	"license": "GNU General Public License v3.0",
+	"files": [
+		"./",
+		"!*.toml",
+		"!*.json"
+	],
+	"publishConfig": {
+		"access": "public"
+	}
+}
