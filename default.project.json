@@ -1,0 +1,12 @@
+{
+	"name": "default",
+	"tree": {
+		"$className": "DataModel",
+		"ReplicatedStorage": {
+			"$className": "ReplicatedStorage"
+		},
+		"ServerScriptService": {
+			"$className": "ServerScriptService"
+		}
+	}
+}
