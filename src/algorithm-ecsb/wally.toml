@@ -1,0 +1,13 @@
+[package]
+name = "ifmnb/algorithm-ecsb"
+description = "ECS, based on Array-Buffer"
+version = "2609.7.0"
+license = "GNU General Public License v3.0"
+authors = ["Aftersky"]
+repository = "https://github.com/IFMNB/luau-algorithm"
+registry = "https://github.com/UpliftGames/wally-index"
+realm = "shared"
+exclude = ["node_modules", "package.json", "**/*.ts"]
+
+[dependencies]
+ArrayBuffer = "ifmnb/array-buffer@2609.7.1"

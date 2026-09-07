@@ -1,0 +1,10 @@
+[package]
+name = "ifmnb/bitmap"
+description = "BitMap library"
+version = "2609.3.0"
+license = "GNU General Public License v3.0"
+authors = ["Aftersky"]
+repository = "https://github.com/IFMNB/luau-math"
+registry = "https://github.com/UpliftGames/wally-index"
+realm = "shared"
+exclude = ["node_modules", "package.json", "**/*.ts"]

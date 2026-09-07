@@ -1,0 +1,13 @@
+[package]
+name = "ifmnb/array-buffer"
+description = "Array object based on buffer"
+version = "2609.7.1"
+license = "GNU General Public License v3.0"
+authors = ["Aftersky"]
+repository = "https://github.com/IFMNB/luau-math"
+registry = "https://github.com/UpliftGames/wally-index"
+realm = "shared"
+exclude = ["node_modules", "package.json", "**/*.ts"]
+
+[dependencies]
+BitMap = "ifmnb/bitmap@2609.3.0"

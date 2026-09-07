@@ -1,5 +1,7 @@
 --!strict
 
+-- TODO
+
 type instruction = {
     read mark: (self: instruction, marked: unknown, ...unknown) -> (),
     read hit: (self: instruction, mark: unknown) -> (boolean, ...any),
