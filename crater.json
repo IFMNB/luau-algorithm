@@ -1,0 +1,36 @@
+{
+  "$schema": "https://raw.githubusercontent.com/TheExeDEV/crater/main/schemas/crater.schema.json",
+
+  "name": "ifmnb/algorithm",
+  "version": "0.0.0",
+  "description": "IFMNB tools collection",
+  "authors": ["IFMNB"],
+  "license": "MPLv2",
+  "keywords": ["monorepository", "universal"],
+  "repository": "https://github.com/IFMNB/luau-algorithm",
+
+  "registry": "crater",
+  "registries": {},
+  "can_publish": true,
+  "import_to": "shared",
+
+  "path_to_main": "",
+  "path_to_definition_files": [],
+  "package_files": { "exclude": [], "allow": [] },
+
+  "import_client": [],
+  "import_server": [],
+  "import_develop": [],
+  "overrides": [],
+
+  "workspace": [],
+  "scripts": {},
+  "tools": {},
+  "package_scripts": { "block": false, "allow": [] },
+
+  "monorepository-elements": {
+    "SAT": "ifmnb/algo-sat"
+  },
+  "interface": false,
+  "realized_interfaces": []
+}

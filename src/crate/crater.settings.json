@@ -1,0 +1,21 @@
+{
+  "$schema": "https://raw.githubusercontent.com/TheExeDEV/crater/main/schemas/crater.settings.schema.json",
+  "client": {
+    "path": "Packages",
+    "alias": ""
+  },
+  "server": {
+    "path": "ServerPackages",
+    "alias": ""
+  },
+  "develop": {
+    "path": "DevPackages",
+    "alias": ""
+  },
+  "luaurc": ".luaurc",
+  "vscode_definitions": true,
+  "confirm": true,
+  "link_style": "roblox",
+  "darklua": true,
+  "sync": "auto"
+}
